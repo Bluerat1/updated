@@ -1,0 +1,9 @@
+C:\\Users\\Rakk\\Desktop\\spotify-playlist.jpeg
+
+
+"No Surprises", "Creep", "Karma Police", "Airbag", "Paranoid Android", "Let Down"
+
+setSize(500, 453);
+
+C:\Users\Rakk\Desktop\eye.png
+C:\Users\Rakk\Desktop\close-eye.png
